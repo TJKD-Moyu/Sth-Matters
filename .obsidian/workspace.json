@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7983e528c0b0ff2c",
+        "id": "4d38b7082f5c92dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d04e3ca1e2a68cf8",
+            "id": "4d1989da1d3c789d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,12 +34,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "祷告观",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -57,7 +57,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           }
@@ -115,8 +115,35 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "d48028b1781d6add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "694066f8ce7e34ef",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea5279fd44687380",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9bf106e731a1285",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,37 +155,40 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "4d1989da1d3c789d",
   "lastOpenFiles": [
-    "待归档/馅饼云.md",
-    "待归档/铁布衫.md",
-    "待归档/辟个小谣.md",
-    "待归档/花呗仙人.md",
-    "待归档/群氓.md",
-    "待归档/礼貌的意义.md",
-    "待归档/真想要.md",
-    "待归档/生育恐怖主义.md",
-    "待归档/欢迎扯平.md",
-    "待归档/来事儿.md",
-    "待归档/扬汤止沸.md",
-    "待归档/所谓国富民穷.md",
-    "待归档/房产税之外.md",
-    "待归档/快活似神仙.md",
-    "待归档/帮亲.md",
-    "待归档/宠儿出路.md",
-    "待归档/完整规定.md",
-    "待归档/好木匠.md",
-    "待归档/圣木耳.md",
-    "待归档/反着卖.md",
-    "待归档/你拍一，我拍一.md",
-    "待归档/体育问题.md",
-    "待归档/丢盔弃甲.md",
-    "待归档/LEGEN~DARY.md",
-    "【本周更新】/鬼故事.md",
-    "【本周更新】/逆行超车.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论投资/祷告观.md",
+    "你好.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/494 - 企业管理/城府.md",
+    "【本周更新】/真想要.md",
+    "【本周更新】/好木匠.md",
+    "【本周更新】/生育恐怖主义.md",
+    "【本周更新】/快活似神仙.md",
+    "【本周更新】/房产税之外.md",
+    "【本周更新】/丢盔弃甲.md",
+    "【文章目录】/【10 - 专题类】/杂论/信教之前.md",
+    "沙海拾金/文章相关讨论/评论区_无爱信仰.md",
+    "沙海拾金/文章相关讨论/评论区_天使.md",
+    "沙海拾金/文章相关讨论/评论区_但行好事.md",
+    "沙海拾金/文章相关讨论/评论区_地狱这东西.md",
+    "沙海拾金/文章相关讨论/评论区_反犹.md",
+    "沙海拾金/文章相关讨论/评论区_爱.md",
+    "【文章目录】/【10 - 专题类】/杂论/骗子.md",
+    "【文章目录】/【2 - 信仰类】/神学答集/不可证伪 2.md",
+    "沙海拾金/文章相关讨论/评论区_信仰是什么.md",
+    "沙海拾金/文章相关讨论/评论区_Sin.md",
+    "沙海拾金/文章相关讨论/评论区_约伯.md",
+    "【文章目录】/【5 - 社会科学】/530 - 礼俗/扫墓.md",
+    "【文章目录】/【1 - 哲学类】/150 - 逻辑学/150 - 逻辑总论/举石头.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论安全/救助他人/人救人.md",
+    "【文章目录】/【1 - 哲学类】/140 - 西洋哲学/价值观冲突.md",
+    "【文章目录】/【1 - 哲学类】/140 - 西洋哲学/上帝已死.md",
+    "【文章目录】/【2 - 信仰类】/神学答集",
+    "【文章目录】/【2 - 信仰类】",
     "md",
     "md/Nel",
     "爱的原理",
@@ -167,8 +197,6 @@
     "md/N",
     "【文章目录】/【2 - 信仰类】/神学评论区",
     "爱发电/南斗集",
-    "爱发电",
-    "爱发电/会员专享",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",

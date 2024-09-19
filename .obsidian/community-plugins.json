@@ -1,5 +1,6 @@
 [
   "find-unlinked-files",
   "tag-wrangler",
-  "advanced-merger"
+  "advanced-merger",
+  "obsidian-dangling-links"
 ]
